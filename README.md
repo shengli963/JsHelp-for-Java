@@ -15,7 +15,6 @@
   * [remove](#remove) 
   * [toArray](#toArray) 
   * [indexOf](#indexOf) 
-  
 <br />
 ## Console 
 ### log 
