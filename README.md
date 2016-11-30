@@ -9,8 +9,8 @@
   
 <br />
 ## Console 
-### log
-### public static <T> void log(T a)
+### log `public static <T> void log(T a)`
+
 <br />
 ```Java
  Console.log("hello!");
