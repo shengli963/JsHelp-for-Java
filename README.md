@@ -14,8 +14,11 @@
   * [slice](#slice) 
   * [remove](#remove) 
   * [toArray](#toArray) 
-  * [indexOf](#indexOf) 
+  * [indexOf](#indexOf)
+  
+  
 <br />
+
 ## Console 
 ### log 
 #### `public static <T> void log(T a)`
