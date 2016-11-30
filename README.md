@@ -93,3 +93,31 @@
  arr.remove(1);
 ```
 <br />
+### clear
+#### `public void clear()`
+**删除数组所有元素**
+```Java
+ arr.clear();
+```
+<br />
+### toArray
+#### `public Object[] toArray()`
+**将此伪数组转换成真正的数组**
+```Java
+ arr.toArray();
+```
+<br />
+### clone
+#### `public Object clone()`
+**克隆一份数组**
+```Java
+ arr.clone();
+```
+<br />
+### indexOf
+#### `public <F> int indexOf(F a)`
+**测试指定值在数组的下标位置，如果指定值不存在则返回-1**
+```Java
+ arr.indexOf("hello");
+```
+<br />
