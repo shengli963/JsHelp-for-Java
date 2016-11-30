@@ -1,11 +1,11 @@
 # JsHelp-for-Java
 前端看起来很亲切的java的另一种写法（(⊙o⊙)…有点绕口）
 <br />
-##>Console 
+## >Console 
 **所用到的方法**
-* [log](https://github.com/Jon-Millent/JsHelp-for-Java#log "log")  
+* [log](https://github.com/Jon-Millent/JsHelp-for-Java/blob/master/README.md#jshelp-for-java "log")  
 <br />
-####Console.log(E a);
+#### Console.log(E a);
 <br />
 ```java
 
