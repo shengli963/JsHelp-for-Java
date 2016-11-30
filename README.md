@@ -11,7 +11,7 @@
 ## Console 
 ### log 
 #### `public static <T> void log(T a)`
-
+**向控制台打印一句话**
 ```Java
  Console.log("hello!");
  Console.log(123456);
