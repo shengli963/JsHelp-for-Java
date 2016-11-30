@@ -2,7 +2,7 @@
 前端看起来很亲切的java的另一种写法（(⊙o⊙)…有点绕口）
 <br />
 ## 目录
-* [Console](https://github.com/Jon-Millent/JsHelp-for-Java#Console) 
+* [Console](https://github.com/Jon-Millent/JsHelp-for-Java#console) 
   * [log](https://github.com/Jon-Millent/JsHelp-for-Java#log) 
   
 ## >Console 
