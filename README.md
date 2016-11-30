@@ -6,31 +6,6 @@
   * [log](#log) 
 * [JArray](#jarray) 
   * [push](#push) 
+  
 <br />
 ## Console 
-**所用到的方法**
-<br />
-### log
-
-```java
-  
-  
-  Console.log("Hello!");
-  Console.log(123);
-
-```
-<br />
-
-## JArray 
-**所用到的方法**
-<br />
-### push
-
-<br />
-```java
-
-  Console.log("Hello!");
-  Console.log(123);
-
-```
-<br />
