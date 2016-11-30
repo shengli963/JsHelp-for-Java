@@ -4,8 +4,10 @@
 ## 目录
 * [Console](#console) 
   * [log](#log) 
+* [JArray](#jarray) 
+  * [push](#push) 
   
-## >Console 
+## Console 
 **所用到的方法**
 <br />
 ### log
@@ -14,9 +16,21 @@
 ```java
 
   Console.log("Hello!");
-   Console.log(123);
+  Console.log(123);
 
 ```
 <br />
 
+## JArray 
+**所用到的方法**
+<br />
+### push
 
+<br />
+```java
+
+  Console.log("Hello!");
+  Console.log(123);
+
+```
+<br />
