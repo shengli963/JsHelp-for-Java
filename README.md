@@ -4,10 +4,12 @@
 ## >Console 
 **所用到的方法**
 
-
+* Console
+  * log
 
 <br />
 ### log;
+
 <br />
 ```java
 
