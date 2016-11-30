@@ -3,5 +3,16 @@
 <br />
 ##>Console 
 **所用到的方法**
-* log
-***ssssss***
+* [log](https://github.com/Jon-Millent/JsHelp-for-Java#log "log")  
+<br />
+####Console.log(E a);
+<br />
+```java
+
+  Console.log("Hello!");
+   Console.log(123);
+
+```
+<br />
+
+
