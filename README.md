@@ -4,8 +4,8 @@
 ## >Console 
 **所用到的方法**
 
-* Console
-  * log
+* `Console`
+  * `[log](http://blog.csdn.net/guodongxiaren) `
 
 <br />
 ### log;
