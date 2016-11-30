@@ -129,3 +129,49 @@
  arr.indexOf("hello");
 ```
 <br />
+## JMap
+```Java
+ JMap hash = new JMap();
+```
+### set 
+#### `public <K,V> String set(K a,V b)`
+**设置哈希表key和value任意类型的值**
+```Java
+  hash.set("name", "aaa");
+		hash.set("age", 15);
+```
+<br />
+### get 
+#### `public <K> Object get(K a)`
+**获取key对应的value**
+```Java
+  Console.log(hash.get("name"));
+```
+<br />
+### remove 
+#### `public <K> boolean remove (K a)`
+**删除key对应的值和value**
+```Java
+  hash.remove("name");
+```
+<br />
+### forEach 
+### next 
+#### `public Object[] forEach()`
+#### `public Object[] next()`
+**forEach遍历哈希表，和next结合使用**
+```Java
+		while(hash.forEach().length>0){
+			Console.log(hash.next()[0]);
+			Console.log(hash.next()[1]);
+		}
+```
+<br />
+### setStart 
+#### `public void setStart()`
+
+**某些特殊情况下，可手动设置遍历下标指向0**
+```Java
+		hash.setStart()
+```
+<br />
