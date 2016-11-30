@@ -7,13 +7,13 @@
 * [JArray](#jarray) 
   * [push](#push) 
 <br />
-## >Console 
+## Console 
 **所用到的方法**
 <br />
 ### log
 
 ```java
-  /* public static <T> void log(T a) */
+  
   
   Console.log("Hello!");
   Console.log(123);
