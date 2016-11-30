@@ -28,3 +28,18 @@
  Console.log(123456);
 ```
 <br />
+
+## JArray 
+```Java
+ JArray arr = new JArray();
+```
+<br />
+### push 
+#### `public <A> A push(A a)`
+**向数组添加一个任意类型元素**
+```Java
+ arr.push(123);
+ arr.push("SOME");
+ arr.push(new Object());
+```
+<br />
