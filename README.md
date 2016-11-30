@@ -2,10 +2,19 @@
 前端看起来很亲切的java的另一种写法（(⊙o⊙)…有点绕口）
 <br />
 ## 目录
-* [Console](#console) 
+* [Console 控制台操作](#console) 
   * [log](#log) 
-* [JArray](#jarray) 
+* [JArray 数组操作](#jarray) 
   * [push](#push) 
+  * [pop](#pop) 
+  * [shift](#shift) 
+  * [unshift](#unshift) 
+  * [get](#get) 
+  * [set](#set) 
+  * [slice](#slice) 
+  * [remove](#remove) 
+  * [toArray](#toArray) 
+  * [indexOf](#indexOf) 
   
 <br />
 ## Console 
