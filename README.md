@@ -3,7 +3,9 @@
 <br />
 ## >Console 
 **所用到的方法**
-* [log](https://github.com/Jon-Millent/JsHelp-for-Java/blob/master/README.md#log "log")  
+
+
+
 <br />
 ### log;
 <br />
