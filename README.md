@@ -6,12 +6,12 @@
   * [log](#log) 
 * [JArray](#jarray) 
   * [push](#push) 
-  
+<br />
 ## Console 
 **所用到的方法**
 <br />
 ### log
-
+** public static <T> void log(T a){) **
 <br />
 ```java
 
@@ -19,7 +19,7 @@
   Console.log(123);
 
 ```
-<br />
+
 
 ## JArray 
 **所用到的方法**
