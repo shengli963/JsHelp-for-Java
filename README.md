@@ -15,7 +15,15 @@
   * [remove](#remove) 
   * [toArray](#toArray) 
   * [indexOf](#indexOf)
-  
+* [JMap 哈希表操作](#JMap) 
+  * [set](#set) 
+  * [get](#get)
+  * [remove](#remove) 
+  * [unshift](#unshift) 
+  * [forEach](#forEach) 
+  * [setStart](#setStart) 
+  * [next](#next) 
+
   
 <br />
 
