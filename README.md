@@ -6,9 +6,12 @@
   * [log](#log) 
 * [JArray 数组操作](#jarray) 
   * [push](#push) 
+  
   * [pop](#pop) 
   * [shift](#shift) 
+  
   * [unshift](#unshift) 
+  
   * [get](#get) 
   * [set](#set) 
   * [slice](#slice) 
