@@ -176,6 +176,6 @@ import JsHelp.*;
 
 **某些特殊情况下，可手动设置遍历下标指向0**
 ```Java
-		hash.setStart()
+	hash.setStart()
 ```
 <br />
